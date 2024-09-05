@@ -28,7 +28,7 @@
     </assets>
   </extension>
 </addon>
-<addon id="skin.estuary_embycon" version="12.0.0" name="Estuary (EmbyCon)" provider-name="phil65, Ichabod Fletchman">
+<addon id="skin.estuary_embycon" version="12.0.1" name="Estuary (EmbyCon)" provider-name="phil65, Ichabod Fletchman">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0"/>
 	</requires>
