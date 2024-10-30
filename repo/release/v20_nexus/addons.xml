@@ -2,7 +2,7 @@
 <addons>
 <addon  id="plugin.video.embycon" 
         name="EmbyCon"
-        version="1.11.31"
+        version="1.11.33"
         provider-name="Team B">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
